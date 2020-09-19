@@ -1,4 +1,4 @@
-package com.story.designpatterns.factory;
+package com.story.designpatterns.factory.factorymethod;
 
 public class Plane {
     public void go(){

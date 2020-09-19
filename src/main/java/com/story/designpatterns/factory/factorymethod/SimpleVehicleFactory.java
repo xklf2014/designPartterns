@@ -1,4 +1,4 @@
-package com.story.designpatterns.factory;
+package com.story.designpatterns.factory.factorymethod;
 
 //简单工厂的可扩展性不好
 public class SimpleVehicleFactory {

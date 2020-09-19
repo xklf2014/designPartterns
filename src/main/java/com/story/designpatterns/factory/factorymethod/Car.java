@@ -1,4 +1,4 @@
-package com.story.designpatterns.factory;
+package com.story.designpatterns.factory.factorymethod;
 
 public class Car {
     public void go(){
