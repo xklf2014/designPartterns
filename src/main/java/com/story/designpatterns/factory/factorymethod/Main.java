@@ -8,14 +8,14 @@ public class Main {
         plane.go();
         System.out.println("=================");
 
-        Moveable moveable = new Ship();
-        moveable.go();
+        Movable movable = new Ship();
+        movable.go();
 
-        moveable = new Broom();
-        moveable.go();
+        movable = new Broom();
+        movable.go();
         System.out.println("=================");
 
-        Moveable m = new ShipFactory().createShip();
+        Movable m = new ShipFactory().createShip();
         m.go();
     }
 }
